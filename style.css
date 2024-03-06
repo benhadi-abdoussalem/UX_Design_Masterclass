@@ -1,0 +1,9168 @@
+/* Landing Page V1 Desktop */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+
+position: relative;
+width: 1280px;
+height: 6829.4px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+
+/* Navbar */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 20px 50px;
+
+width: 1280px;
+height: 100px;
+
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Logo */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 6px;
+
+margin: 0 auto;
+width: 179px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Logo Mark */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 82.12%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 2.23%;
+right: 84.36%;
+top: 28.12%;
+bottom: 18.75%;
+
+border: 2px solid #2D2D2D;
+
+
+/* Vector */
+
+position: absolute;
+left: 5.59%;
+right: 87.71%;
+top: 9.38%;
+bottom: 71.88%;
+
+border: 2px solid #2D2D2D;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.29%;
+right: 86.03%;
+top: 40.62%;
+bottom: 50%;
+
+background: #2D2D2D;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.29%;
+right: 86.03%;
+top: 59.38%;
+bottom: 31.25%;
+
+background: #2D2D2D;
+
+
+/* Vector */
+
+position: absolute;
+left: 10.61%;
+right: 89.39%;
+top: 28.12%;
+bottom: 18.75%;
+
+border: 2px solid #2D2D2D;
+
+
+/* LandingPage */
+
+width: 141px;
+height: 27px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Navigation menu */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: flex-end;
+align-items: center;
+padding: 0px;
+gap: 50px;
+
+margin: 0 auto;
+width: 559px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 56px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+display: none;
+width: 59px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 66px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 66px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Highlighted CTAs */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 443px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 202px;
+height: 60px;
+
+background: #E5F4F2;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 102px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 221px;
+height: 60px;
+
+background: #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* RocketLaunch */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* RocketLaunch */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.65%;
+right: 63.24%;
+top: 63.24%;
+bottom: 14.65%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.3%;
+right: 13.94%;
+top: 13.94%;
+bottom: 32.3%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 27.89%;
+top: 45.59%;
+bottom: 13.42%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.42%;
+right: 45.59%;
+top: 27.89%;
+bottom: 50%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Hero Section */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 120px 55px;
+gap: 101px;
+
+width: 1280px;
+height: 690px;
+
+background: #F8F9FF;
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+margin: 0 auto;
+width: 648px;
+height: 358px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 648px;
+height: 258px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Create Engaging Landing Pages */
+
+width: 648px;
+height: 174px;
+
+/* Display XL */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 67px;
+line-height: 130%;
+/* or 87px */
+letter-spacing: -0.025em;
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Build beautiful landing pages in record time with Anima’s Landing Page UI kit for Figma. No code required! */
+
+width: 648px;
+height: 64px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* or 32px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTAs */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 441px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 221px;
+height: 60px;
+
+background: #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* RocketLaunch */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* RocketLaunch */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.65%;
+right: 63.24%;
+top: 63.24%;
+bottom: 14.65%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.5px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.3%;
+right: 13.94%;
+top: 13.94%;
+bottom: 32.3%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.5px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 50%;
+right: 27.89%;
+top: 45.59%;
+bottom: 13.42%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.5px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 13.42%;
+right: 45.59%;
+top: 27.89%;
+bottom: 50%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.5px solid #F8F9FF;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 202px;
+height: 60px;
+
+background: #FFFFFF;
+border: 1px solid #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 102px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Visuals */
+
+margin: 0 auto;
+width: 450px;
+height: 450px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 401.37px;
+height: 401.37px;
+left: 24.63px;
+top: 21.2px;
+
+background: #F2BFAF;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 146.56px;
+height: 146.56px;
+left: 303px;
+top: 39.69px;
+
+border: 31.5522px solid #009379;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 86px;
+height: 86px;
+left: 0px;
+top: 265px;
+
+border: 31.5522px solid #FF6250;
+
+
+/* Star */
+
+position: absolute;
+width: 28.41px;
+height: 28.41px;
+left: 376px;
+top: 172px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+border-radius: 1.3529px;
+
+
+/* Star */
+
+position: absolute;
+width: 28.41px;
+height: 28.41px;
+left: 69px;
+top: 307px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+border-radius: 1.3529px;
+
+
+/* Mobile Mockup */
+
+position: absolute;
+width: 219.44px;
+height: 422px;
+left: 115px;
+top: 14px;
+
+box-shadow: inset -2.25067px -5.064px 3.93867px rgba(0, 0, 0, 0.1);
+filter: drop-shadow(10.56px 14.25px 20px rgba(0, 0, 0, 0.15));
+border-radius: 30px;
+
+
+/* button */
+
+position: absolute;
+left: 217.75px;
+right: -4.62px;
+top: 84.96px;
+bottom: 283.58px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0482741px solid #D8D8D8;
+border-radius: 2.89644px;
+
+
+/* button */
+
+position: absolute;
+left: -4.5px;
+right: 217.63px;
+top: 127.73px;
+bottom: 255.45px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0482741px solid #D8D8D8;
+border-radius: 2.89644px;
+
+
+/* button */
+
+position: absolute;
+left: -4.5px;
+right: 217.63px;
+top: 82.71px;
+bottom: 300.46px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0482741px solid #D8D8D8;
+border-radius: 2.89644px;
+
+
+/* button */
+
+position: absolute;
+left: -4.5px;
+right: 217.63px;
+top: 54.58px;
+bottom: 349.98px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0482741px solid #D8D8D8;
+border-radius: 2.89644px;
+
+
+/* device */
+
+position: absolute;
+left: -2.25px;
+right: -1.81px;
+top: -3.14px;
+bottom: -3.05px;
+
+background: linear-gradient(12.03deg, #FFFFFF 2.14%, #D2D2D2 56.38%, #FFFFFF 88.21%);
+border: 0.562667px solid #D1D1D1;
+border-radius: 39.3867px;
+
+
+/* insert your screen here */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 6.19px;
+right: 6.63px;
+top: 5.63px;
+bottom: 5.63px;
+
+border: 0.562667px solid #2D2D2D;
+box-shadow: inset 0.562667px 0.562667px 1.12533px rgba(0, 0, 0, 0.25);
+border-radius: 33.76px;
+
+
+/* Insert your mockup image here */
+
+position: absolute;
+width: 209.72px;
+height: 410.83px;
+left: -2.28px;
+top: 0px;
+
+background: url(mobile black new.png);
+
+
+/* top-speaker */
+
+position: absolute;
+width: 67.08px;
+height: 14.63px;
+left: 75.96px;
+top: 10.69px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+height: 14.63px;
+left: 75.96px;
+right: 76.4px;
+top: 10.69px;
+
+background: #FFFFFF;
+border-radius: 56.2667px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 30.38px;
+height: 2.25px;
+left: calc(50% - 30.38px/2 - 0.85px);
+top: 16.88px;
+
+background: #CFCFCF;
+border-radius: 4.50133px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 2.25px;
+height: 2.25px;
+left: calc(50% - 2.25px/2 + 17.72px);
+top: 16.88px;
+
+background: #CFCFCF;
+
+
+/* Logo Bar */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 60px 55px;
+gap: 10px;
+
+width: 1280px;
+height: 270.32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Logos */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 60px 0px;
+gap: 64px;
+
+width: 1170px;
+height: 150.32px;
+
+border-width: 1px 0px;
+border-style: solid;
+border-color: #D8D8D8;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 27.96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: -0.02%;
+right: 0.34%;
+top: -0.07%;
+bottom: 0%;
+
+background: #FF385C;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 30.32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 26.19%;
+right: 57.44%;
+top: 27.17%;
+bottom: 24.61%;
+
+background: #EA4335;
+
+
+/* Vector */
+
+position: absolute;
+left: 43.84%;
+right: 39.8%;
+top: 27.17%;
+bottom: 24.61%;
+
+background: #FBBC05;
+
+
+/* Vector */
+
+position: absolute;
+left: 61.48%;
+right: 22.89%;
+top: 27.17%;
+bottom: 3.01%;
+
+background: #4285F4;
+
+
+/* Vector */
+
+position: absolute;
+left: 79.23%;
+right: 17.28%;
+top: 3.26%;
+bottom: 26.09%;
+
+background: #34A853;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.22%;
+right: 0.74%;
+top: 27.16%;
+bottom: 24.62%;
+
+background: #EA4335;
+
+
+/* Vector */
+
+position: absolute;
+left: 0.13%;
+right: 75.19%;
+top: 0.51%;
+bottom: 24.62%;
+
+background: #4285F4;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 27.96px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* path8 */
+
+position: absolute;
+left: 14.07%;
+right: 37.53%;
+top: 63.8%;
+bottom: 0%;
+
+background: #FF9900;
+
+
+/* path10 */
+
+position: absolute;
+left: 57.19%;
+right: 32.86%;
+top: 60.33%;
+bottom: 7.15%;
+
+background: #FF9900;
+
+
+/* path12 */
+
+position: absolute;
+left: 57.22%;
+right: 30.56%;
+top: 1.47%;
+bottom: 43.39%;
+
+background: #000000;
+
+
+/* path14 */
+
+position: absolute;
+left: 17.05%;
+right: 62.11%;
+top: 0.51%;
+bottom: 42.03%;
+
+background: #000000;
+
+
+/* path16 */
+
+position: absolute;
+left: 70.93%;
+right: 15.03%;
+top: 0.51%;
+bottom: 40.94%;
+
+background: #000000;
+
+
+/* path18 */
+
+position: absolute;
+left: 87.29%;
+right: 0%;
+top: 0.51%;
+bottom: 42.03%;
+
+background: #000000;
+
+
+/* path28 */
+
+position: absolute;
+left: 40.57%;
+right: 44.63%;
+top: 0%;
+bottom: 41.31%;
+
+background: #000000;
+
+
+/* path30 */
+
+position: absolute;
+left: 0%;
+right: 85.2%;
+top: 0%;
+bottom: 41.31%;
+
+background: #000000;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 19.18px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 27.75%;
+right: 0.02%;
+top: 15.58%;
+bottom: 18.91%;
+
+background: #737373;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 89.85%;
+top: 0%;
+bottom: 52.48%;
+
+background: #F25022;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.21%;
+right: 78.64%;
+top: 0%;
+bottom: 52.48%;
+
+background: #7FBA00;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 89.85%;
+top: 52.48%;
+bottom: 0%;
+
+background: #00A4EF;
+
+
+/* Vector */
+
+position: absolute;
+left: 11.21%;
+right: 78.64%;
+top: 52.48%;
+bottom: 0%;
+
+background: #FFB900;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 27px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* g15 */
+
+position: absolute;
+left: 0%;
+right: 0.12%;
+top: 0%;
+bottom: -0.53%;
+
+
+
+/* g17 */
+
+position: absolute;
+left: 57.98%;
+right: 0.12%;
+top: 0%;
+bottom: 2.99%;
+
+
+
+/* polygon19 */
+
+position: absolute;
+left: 74.36%;
+right: 0.12%;
+top: 35.43%;
+bottom: 2.99%;
+
+background: #FF6600;
+
+
+/* polygon21 */
+
+position: absolute;
+left: 57.98%;
+right: 25.64%;
+top: 0%;
+bottom: 2.99%;
+
+background: #FF6600;
+
+
+/* path23 */
+
+position: absolute;
+left: 0%;
+right: 42.02%;
+top: 0%;
+bottom: -0.53%;
+
+background: #652C8F;
+
+
+/* _Client logo */
+
+margin: 0 auto;
+width: 90px;
+height: 25.71px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Layer 2 */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: -0.01%;
+bottom: -0.03%;
+
+
+
+/* Group */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 16.55%;
+bottom: -0.03%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 85.68%;
+top: 16.55%;
+bottom: 16.11%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 16.4%;
+right: 71.23%;
+top: 33.28%;
+bottom: 16.06%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 46.01%;
+right: 42.13%;
+top: 16.55%;
+bottom: 16.1%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 92.97%;
+right: 0%;
+top: 21.6%;
+bottom: 16.06%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 30.86%;
+right: 55.06%;
+top: 16.96%;
+bottom: 16.05%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.95%;
+right: 25.98%;
+top: 33.02%;
+bottom: -0.03%;
+
+background: #33475B;
+
+
+/* Vector */
+
+position: absolute;
+left: 64.23%;
+right: 9.08%;
+top: -0.01%;
+bottom: 1.43%;
+
+background: #FF7A59;
+
+
+/* Features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 801px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1170px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Features */
+
+width: 167px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Few good reasons why you should use Anima Landing Page Ui Kit to make your own pages. */
+
+width: 1170px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cards Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 408px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Feature Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 408px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+margin: 0 auto;
+width: 310px;
+height: 244px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+width: 82px;
+height: 82px;
+
+background: rgba(255, 98, 80, 0.2);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* MagicWand */
+
+width: 42px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 13.79%;
+right: 31.25%;
+top: 31.25%;
+bottom: 13.79%;
+
+background: #FF6250;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.38%;
+right: 15.62%;
+top: 50%;
+bottom: 31.25%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: 6.25%;
+top: 59.38%;
+bottom: 40.62%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 32.81%;
+right: 67.19%;
+top: 15.62%;
+bottom: 68.75%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 59.38%;
+top: 23.44%;
+bottom: 76.56%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 34.38%;
+top: 71.88%;
+bottom: 15.62%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.38%;
+right: 28.13%;
+top: 78.12%;
+bottom: 21.88%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.53%;
+right: -0.92%;
+top: 75%;
+bottom: 7.33%;
+
+border: 2.375px solid #FF6250;
+transform: rotate(-45deg);
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 31.25%;
+top: 31.25%;
+bottom: 56.25%;
+
+border: 2.375px solid #FF6250;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write a feature */
+
+width: 310px;
+height: 36px;
+
+/* Display S */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 130%;
+/* or 36px */
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write benefits-focused, clear & concise feature descriptions. Emphasise the impact it has on the user's experience. */
+
+width: 310px;
+height: 72px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 118px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 90px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Feature Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 408px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Card Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+margin: 0 auto;
+width: 310px;
+height: 244px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+width: 82px;
+height: 82px;
+
+background: rgba(0, 147, 121, 0.2);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BoundingBox */
+
+width: 42px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 15.62%;
+top: 15.62%;
+bottom: 65.62%;
+
+background: #009379;
+opacity: 0.2;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 15.62%;
+right: 65.62%;
+top: 15.62%;
+bottom: 65.62%;
+
+background: #009379;
+opacity: 0.2;
+border: 0.125px solid #009379;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 65.62%;
+right: 15.62%;
+top: 65.62%;
+bottom: 15.62%;
+
+background: #009379;
+opacity: 0.2;
+border: 0.125px solid #009379;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 15.62%;
+right: 65.62%;
+top: 65.62%;
+bottom: 15.62%;
+
+background: #009379;
+opacity: 0.2;
+border: 0.125px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 15.62%;
+top: 15.62%;
+bottom: 65.62%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 65.62%;
+top: 15.62%;
+bottom: 65.62%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 15.62%;
+top: 65.62%;
+bottom: 15.62%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 65.62%;
+top: 65.62%;
+bottom: 15.62%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 75%;
+top: 34.38%;
+bottom: 34.38%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.38%;
+right: 34.38%;
+top: 75%;
+bottom: 25%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 75%;
+right: 25%;
+top: 34.38%;
+bottom: 34.38%;
+
+border: 2px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 34.38%;
+right: 34.38%;
+top: 25%;
+bottom: 75%;
+
+border: 2px solid #009379;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 132px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write a feature */
+
+width: 310px;
+height: 36px;
+
+/* Display S */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 130%;
+/* or 36px */
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write benefits-focused, clear & concise feature descriptions. Emphasise the impact it has on the user's experience. */
+
+width: 310px;
+height: 72px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+margin: 0 auto;
+width: 118px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 90px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Feature Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 408px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Card Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 310px;
+height: 268px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 20px;
+gap: 10px;
+
+width: 82px;
+height: 82px;
+
+background: rgba(248, 213, 126, 0.2);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Confetti */
+
+width: 42px;
+height: 42px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 14.6%;
+right: 60%;
+top: 60%;
+bottom: 14.6%;
+
+background: #F8D57E;
+opacity: 0.2;
+
+
+/* Vector */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 30%;
+right: 21.3%;
+top: 21.3%;
+bottom: 30%;
+
+background: #F8D57E;
+opacity: 0.2;
+border: 0.125px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 14.6%;
+right: 21.3%;
+top: 21.3%;
+bottom: 14.6%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 65.62%;
+right: 15.62%;
+top: 9.38%;
+bottom: 71.88%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 22.5%;
+right: 60%;
+top: 60%;
+bottom: 22.5%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 43.75%;
+top: 6.25%;
+bottom: 84.38%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.38%;
+right: 9.38%;
+top: 43.75%;
+bottom: 50%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 84.38%;
+right: 6.25%;
+top: 28.12%;
+bottom: 68.75%;
+
+border: 2px solid #F8D57E;
+
+
+/* Vector */
+
+position: absolute;
+left: 30%;
+right: 39.37%;
+top: 39.37%;
+bottom: 30%;
+
+border: 2px solid #F8D57E;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 156px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write a feature */
+
+width: 310px;
+height: 36px;
+
+/* Display S */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 28px;
+line-height: 130%;
+/* or 36px */
+text-align: center;
+letter-spacing: -0.01em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write benefits-focused, clear & concise feature descriptions. Emphasise the impact it has on the user's experience. */
+
+width: 310px;
+height: 96px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 118px;
+height: 30px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 90px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Metrics */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 561px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1170px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Our Metrics Tell the Story */
+
+width: 467px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Our metrics component gives you the inside scoop on your success and helps you stay on top of your game in style. */
+
+width: 1170px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Metrics */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 171px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Metric Item */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 48px 16px;
+gap: 5px;
+
+width: 270px;
+height: 171px;
+
+/* White */
+background: #FFFFFF;
+/* Accent - Mandys Pink
+
+Accent components &amp; details
+*/
+border-bottom: 4px solid #F2BFAF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Number */
+
+width: 238px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 238px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Metric Item */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 48px 16px;
+gap: 5px;
+
+width: 270px;
+height: 171px;
+
+/* White */
+background: #FFFFFF;
+/* Accent - Mandys Pink
+
+Accent components &amp; details
+*/
+border-bottom: 4px solid #F2BFAF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Number */
+
+width: 238px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 238px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Metric Item */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 48px 16px;
+gap: 5px;
+
+width: 270px;
+height: 171px;
+
+/* White */
+background: #FFFFFF;
+/* Accent - Mandys Pink
+
+Accent components &amp; details
+*/
+border-bottom: 4px solid #F2BFAF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 1;
+
+
+/* Number */
+
+width: 238px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 238px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Metric Item */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 48px 16px;
+gap: 5px;
+
+width: 270px;
+height: 171px;
+
+/* White */
+background: #FFFFFF;
+/* Accent - Mandys Pink
+
+Accent components &amp; details
+*/
+border-bottom: 4px solid #F2BFAF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 1;
+
+
+/* Number */
+
+width: 238px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 238px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ↳ Highlighted CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 690px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 5;
+flex-grow: 0;
+
+
+/* Visuals */
+
+width: 540px;
+height: 450px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 378px;
+height: 378px;
+left: 91px;
+top: 32.57px;
+
+background: #F2BFAF;
+
+
+/* Ellipse 1 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 189px;
+height: 188px;
+left: 0px;
+top: 37px;
+
+border: 31.5522px solid #009379;
+
+
+/* Mobile Mockup */
+
+position: absolute;
+width: 378px;
+height: 378px;
+left: 91px;
+top: 33px;
+
+border-radius: 10000px;
+
+
+/* Mobile Mockup */
+
+position: absolute;
+width: 264px;
+height: 507.69px;
+left: 57px;
+top: 85px;
+
+box-shadow: inset -2.70769px -6.09231px 4.73846px rgba(0, 0, 0, 0.1);
+filter: drop-shadow(12.7043px 17.1436px 24.0612px rgba(0, 0, 0, 0.15));
+border-radius: 100px;
+
+
+/* button */
+
+position: absolute;
+left: 261.97px;
+right: -6.09px;
+top: 102.22px;
+bottom: 340.86px;
+
+background: linear-gradient(193.25deg, #2D2D2D 9.53%, #726F6F 56.11%, #2D2D2D 94.81%);
+border: 0.0580767px solid #D8D8D8;
+border-radius: 3.4846px;
+
+
+/* button */
+
+position: absolute;
+left: -5.42px;
+right: 261.29px;
+top: 153.66px;
+bottom: 307.02px;
+
+background: linear-gradient(193.25deg, #2D2D2D 9.53%, #726F6F 56.11%, #2D2D2D 94.81%);
+border: 0.0580767px solid #D8D8D8;
+border-radius: 3.4846px;
+
+
+/* button */
+
+position: absolute;
+left: -5.42px;
+right: 261.29px;
+top: 99.51px;
+bottom: 361.17px;
+
+background: linear-gradient(193.25deg, #2D2D2D 9.53%, #726F6F 56.11%, #2D2D2D 94.81%);
+border: 0.0580767px solid #D8D8D8;
+border-radius: 3.4846px;
+
+
+/* button */
+
+position: absolute;
+left: -5.42px;
+right: 261.29px;
+top: 65.66px;
+bottom: 420.74px;
+
+background: linear-gradient(193.25deg, #2D2D2D 9.53%, #726F6F 56.11%, #2D2D2D 94.81%);
+border: 0.0580767px solid #D8D8D8;
+border-radius: 3.4846px;
+
+
+/* device */
+
+position: absolute;
+left: -2.71px;
+right: -2.71px;
+top: -3.78px;
+bottom: -4.08px;
+
+background: linear-gradient(193.25deg, #2D2D2D 9.53%, #726F6F 56.11%, #2D2D2D 94.81%);
+border: 0.676923px solid #D8D8D8;
+border-radius: 47.3846px;
+
+
+/* insert your screen here */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 7.45px;
+right: 7.45px;
+top: 5.83px;
+bottom: 7.4px;
+
+border: 0.676923px solid #2D2D2D;
+box-shadow: inset 0.676923px 0.676923px 1.35385px rgba(0, 0, 0, 0.25);
+border-radius: 40.6154px;
+
+
+/* Insert your mockup image here */
+
+position: absolute;
+width: 271.45px;
+height: 497.54px;
+left: -14.22px;
+top: 0.26px;
+
+background: url(mobile white new.png);
+
+
+/* top-speaker */
+
+position: absolute;
+width: 81.23px;
+height: 17.6px;
+left: 91.38px;
+top: 12.86px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+height: 17.6px;
+left: 91.38px;
+right: 91.38px;
+top: 12.86px;
+
+background: #2D2D2D;
+border-radius: 67.6923px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 36.55px;
+height: 2.71px;
+left: calc(50% - 36.55px/2 - 1.35px);
+top: 20.31px;
+
+background: #CFCFCF;
+border-radius: 5.41538px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 2.71px;
+height: 2.71px;
+left: calc(50% - 2.71px/2 + 20.98px);
+top: 20.31px;
+
+background: #CFCFCF;
+
+
+/* Ellipse 2 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 107px;
+height: 107px;
+left: 394px;
+top: 304px;
+
+border: 31.5522px solid #FF6250;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 570px;
+height: 314px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 570px;
+height: 214px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Get Landing Page UI Kit Today! */
+
+width: 570px;
+height: 130px;
+
+/* Display L */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+letter-spacing: -0.02em;
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Break the Figma limits and explore the endless possibilities with Anima. */
+
+width: 570px;
+height: 64px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* or 32px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* CTAs */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 18px;
+
+width: 221px;
+height: 60px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 221px;
+height: 60px;
+
+background: #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Testimonials */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 824.08px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 6;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1170px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Real Stories from Satisfied Customers */
+
+width: 1170px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* See how our landing page ui kit is making an impact. */
+
+width: 1170px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cards Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 434.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Testimonial Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 434.08px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Testimonial Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+width: 310px;
+height: 301px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Client Info  */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Photo */
+
+width: 56px;
+height: 56px;
+
+background: url(pexels-andrea-piacquadio-774909);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Person Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+/* Neutral/900 */
+color: #111827;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vice President @ Google */
+
+width: 310px;
+height: 22px;
+
+/* Body S */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+text-align: center;
+
+/* Neutral/700 */
+color: #374151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write short, specific quote that highlight benefits, use relatable language, add credibility, and focus on the positive aspects of the product or service. */
+
+width: 310px;
+height: 144px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Rating */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+width: 310px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Testimonial Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 434.08px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Testimonial Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+margin: 0 auto;
+width: 310px;
+height: 277px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Client Info  */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Photo */
+
+width: 56px;
+height: 56px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Person Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+/* Neutral/900 */
+color: #111827;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vice President @ Google */
+
+width: 310px;
+height: 22px;
+
+/* Body S */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+text-align: center;
+
+/* Neutral/700 */
+color: #374151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 120px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write short, specific quote that highlight benefits, use relatable language, add credibility, and focus on the positive aspects of the product or service. */
+
+width: 310px;
+height: 120px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Rating */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+margin: 0 auto;
+width: 310px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Empty Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+border: 2px solid #F8D57E;
+
+
+/* Testimonial Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: center;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 434.08px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 1;
+
+
+/* Testimonial Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 30px;
+
+margin: 0 auto;
+width: 310px;
+height: 301px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Client Info  */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 127px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Photo */
+
+width: 56px;
+height: 56px;
+
+background: url(.jpg);
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Person Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 55px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+/* Neutral/900 */
+color: #111827;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Vice President @ Google */
+
+width: 310px;
+height: 22px;
+
+/* Body S */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 160%;
+/* or 22px */
+text-align: center;
+
+/* Neutral/700 */
+color: #374151;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 144px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Write short, specific quote that highlight benefits, use relatable language, add credibility, and focus on the positive aspects of the product or service. */
+
+width: 310px;
+height: 144px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Rating */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 0px;
+gap: 5px;
+
+margin: 0 auto;
+width: 310px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Star Icon */
+
+width: 24px;
+height: 23.08px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 4;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #F8D57E;
+border: 2px solid #F8D57E;
+
+
+/* Pricing */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 814px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 7;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1170px;
+height: 90px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pick Your Perfect Plan */
+
+width: 407px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Find the perfect plan for your business with our flexible pricing options. */
+
+width: 1170px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cards Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 424px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Pricing Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 424px;
+
+background: #FFFFFF;
+/* Neutral - Zircon
+
+Background
+*/
+border: 1px solid #F8F9FF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 254px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 135px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Free */
+
+width: 310px;
+height: 32px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* identical to box height, or 32px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: baseline;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $0 */
+
+width: 65px;
+height: 65px;
+
+/* Display L */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 130%;
+/* identical to box height, or 65px */
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* / month */
+
+width: 233px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Short description goes here */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+display: none;
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 310px;
+height: 60px;
+
+background: #E5F4F2;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Pricing Card */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 424px;
+
+background: #FFFFFF;
+/* Neutral - Zircon
+
+Background
+*/
+border: 1px solid #F8F9FF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 254px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 135px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Free */
+
+width: 310px;
+height: 32px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* identical to box height, or 32px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: baseline;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $0 */
+
+width: 81px;
+height: 65px;
+
+/* Display L */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 130%;
+/* identical to box height, or 65px */
+letter-spacing: -0.02em;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* / month */
+
+width: 217px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #3B3B3B;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Short description goes here */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #009379;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+display: none;
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 310px;
+height: 60px;
+
+background: #E5F4F2;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Pricing Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 40px 30px;
+gap: 30px;
+
+width: 370px;
+height: 424px;
+
+background: #009379;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 24px;
+
+width: 310px;
+height: 254px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Info */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 6px;
+
+width: 310px;
+height: 135px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Special */
+
+width: 310px;
+height: 32px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* identical to box height, or 32px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: baseline;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 65px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* $75 */
+
+width: 96px;
+height: 65px;
+
+/* Display L */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 130%;
+/* identical to box height, or 65px */
+letter-spacing: -0.02em;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* / month */
+
+width: 202px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Short description goes here */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Features */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 16px;
+
+width: 310px;
+height: 95px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+display: none;
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Pricing Feature */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 12px;
+
+width: 310px;
+height: 21px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Check */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 93.55%;
+top: 0%;
+bottom: 4.76%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 1.21%;
+right: 94.56%;
+top: 26.79%;
+bottom: 31.55%;
+
+border: 2px solid #FFFFFF;
+
+
+/* Feature Details in plan */
+
+width: 278px;
+height: 21px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 700;
+font-size: 16px;
+line-height: 130%;
+/* identical to box height, or 21px */
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Button */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 310px;
+height: 60px;
+
+background: #FFFFFF;
+border: 1px solid #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+color: #009379;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+border: 1.5px solid #009379;
+
+
+/* Team */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 120px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 852px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+
+/* Inside auto layout */
+flex: none;
+order: 8;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px;
+gap: 20px;
+
+width: 1170px;
+height: 93px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Meet our team */
+
+width: 276px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+text-align: center;
+letter-spacing: -0.02em;
+
+color: #000000;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Get to know the faces behind the scenes and learn about the values that drive us. */
+
+width: 1170px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Cards Row */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 30px;
+
+width: 1170px;
+height: 459px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Member Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 0px 30px;
+gap: 20px;
+
+width: 370px;
+height: 459px;
+
+background: #FFFFFF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Profile Image Placeholder 1 */
+
+width: 370px;
+height: 278px;
+
+background: url(pexels-anna-shvets-5325840.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 30px 20px;
+gap: 6px;
+
+width: 370px;
+height: 79px;
+
+border-bottom: 1px solid #D8D8D8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+/* Neutral/900 */
+color: #111827;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lead Designer */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 128px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 26.6%;
+top: 30%;
+bottom: 30%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.41%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Member Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 0px 30px;
+gap: 20px;
+
+width: 370px;
+height: 459px;
+
+background: #FFFFFF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Profile Image Placeholder 1 */
+
+width: 370px;
+height: 278px;
+
+background: url(.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 30px 20px;
+gap: 6px;
+
+width: 370px;
+height: 79px;
+
+border-bottom: 1px solid #D8D8D8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lead Designer */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 128px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 26.6%;
+top: 30%;
+bottom: 30%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.41%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Member Card */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+padding: 0px 0px 30px;
+gap: 20px;
+
+width: 370px;
+height: 459px;
+
+background: #FFFFFF;
+box-shadow: 34.8541px 29.626px 48.34px rgba(51, 102, 255, 0.05);
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Profile Image Placeholder 1 */
+
+width: 370px;
+height: 278px;
+
+background: url(.jpg);
+border-radius: 20px 20px 0px 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Text */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: center;
+padding: 0px 30px 20px;
+gap: 6px;
+
+width: 370px;
+height: 79px;
+
+border-bottom: 1px solid #D8D8D8;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* John Doe */
+
+width: 310px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+text-align: center;
+
+/* Neutral/900 */
+color: #111827;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Lead Designer */
+
+width: 310px;
+height: 26px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 160%;
+/* identical to box height, or 26px */
+text-align: center;
+
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 128px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 26.6%;
+top: 30%;
+bottom: 30%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.41%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* ↳ Highlighted CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 60px 55px;
+
+width: 1280px;
+height: 554px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 9;
+flex-grow: 0;
+
+
+/* Highlighted CTA */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+
+width: 1170px;
+height: 434px;
+
+/* Accent - Mandys Pink
+
+Accent components &amp; details
+*/
+background: #F2BFAF;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Content */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 60px;
+gap: 40px;
+
+width: 586px;
+height: 434px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Text */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 466px;
+height: 214px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Get Landing Page UI Kit Today! */
+
+width: 466px;
+height: 130px;
+
+/* Display L */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 50px;
+line-height: 130%;
+/* or 65px */
+letter-spacing: -0.02em;
+
+/* Neutral - Mine Shaft */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Break the Figma limits and explore the endless possibilities with Anima. */
+
+width: 466px;
+height: 64px;
+
+/* Body L */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 21px;
+line-height: 150%;
+/* or 32px */
+
+/* Neutral - Mine Shaft */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 221px;
+height: 60px;
+
+background: #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 93px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* ArrowRight */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 15.62%;
+top: 50%;
+bottom: 50%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Vector */
+
+position: absolute;
+left: 56.25%;
+right: 15.62%;
+top: 21.88%;
+bottom: 21.88%;
+
+/* Neutral - Zircon
+
+Background
+*/
+border: 1.66667px solid #F8F9FF;
+
+
+/* Mockup */
+
+width: 584px;
+height: 434px;
+
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Ellipse 4 */
+
+box-sizing: border-box;
+
+position: absolute;
+width: 261px;
+height: 261px;
+left: 18px;
+top: 238px;
+
+/* Accent - Persimmon
+
+Accent details &amp; visuals
+*/
+border: 41px solid #FF6250;
+border-radius: 20px;
+
+
+/* Ellipse 5 */
+
+position: absolute;
+width: 261px;
+height: 261px;
+left: 388px;
+top: -92px;
+
+/* CTA - Observatory
+
+Primary CTAs
+*/
+background: #009379;
+border-radius: 20px;
+
+
+/* Mobile Mockup */
+
+position: absolute;
+width: 376px;
+height: 723.08px;
+left: 126px;
+top: 45px;
+
+box-shadow: inset -3.85641px -8.67692px 6.74872px rgba(0, 0, 0, 0.1);
+filter: drop-shadow(18.0941px 24.4167px 34.269px rgba(0, 0, 0, 0.15));
+border-radius: 20px;
+
+
+/* button */
+
+position: absolute;
+left: 373.11px;
+right: -8.68px;
+top: 145.58px;
+bottom: 485.98px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0827153px solid #D8D8D8;
+border-radius: 4.96292px;
+
+
+/* button */
+
+position: absolute;
+left: -7.71px;
+right: 372.14px;
+top: 218.85px;
+bottom: 437.78px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0827153px solid #D8D8D8;
+border-radius: 4.96292px;
+
+
+/* button */
+
+position: absolute;
+left: -7.71px;
+right: 372.14px;
+top: 141.72px;
+bottom: 514.91px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0827153px solid #D8D8D8;
+border-radius: 4.96292px;
+
+
+/* button */
+
+position: absolute;
+left: -7.71px;
+right: 372.14px;
+top: 93.52px;
+bottom: 599.75px;
+
+background: linear-gradient(193.25deg, #D8D8D8 9.53%, #FFFFFF 56.11%, #D8D8D8 94.81%);
+border: 0.0827153px solid #D8D8D8;
+border-radius: 4.96292px;
+
+
+/* device */
+
+position: absolute;
+left: -3.86px;
+right: -3.86px;
+top: -5.38px;
+bottom: -5.15px;
+
+background: linear-gradient(12.03deg, #FFFFFF 2.14%, #D2D2D2 56.38%, #FFFFFF 88.21%);
+border: 0.964103px solid #D1D1D1;
+border-radius: 67.4872px;
+
+
+/* insert your screen here */
+
+box-sizing: border-box;
+
+position: absolute;
+left: 10.61px;
+right: 10.61px;
+top: 9.64px;
+bottom: 9.72px;
+
+border: 0.964103px solid #2D2D2D;
+box-shadow: inset 0.964103px 0.964103px 1.92821px rgba(0, 0, 0, 0.25);
+border-radius: 57.8462px;
+
+
+/* Insert your mockup image here */
+
+position: absolute;
+width: 359.34px;
+height: 703.93px;
+left: -3.91px;
+top: 0px;
+
+background: url(mobile black.png);
+
+
+/* top-speaker */
+
+position: absolute;
+width: 115.69px;
+height: 25.07px;
+left: 130.15px;
+top: 18.32px;
+
+
+
+/* Rectangle 9 */
+
+position: absolute;
+height: 25.07px;
+left: 130.15px;
+right: 130.15px;
+top: 18.32px;
+
+background: #FFFFFF;
+border-radius: 96.4103px;
+
+
+/* Rectangle 10 */
+
+position: absolute;
+width: 52.06px;
+height: 3.86px;
+left: calc(50% - 52.06px/2 - 1.93px);
+top: 28.92px;
+
+background: #CFCFCF;
+border-radius: 7.71282px;
+
+
+/* Ellipse 1 */
+
+position: absolute;
+width: 3.86px;
+height: 3.86px;
+left: calc(50% - 3.86px/2 + 29.89px);
+top: 28.92px;
+
+background: #CFCFCF;
+
+
+/* Contact Form */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: flex-start;
+padding: 60px 55px;
+gap: 60px;
+
+width: 1280px;
+height: 593px;
+
+/* Neutral - Zircon
+
+Background
+*/
+background: #F8F9FF;
+border-radius: 0px;
+
+/* Inside auto layout */
+flex: none;
+order: 10;
+flex-grow: 0;
+
+
+/* Contact Form */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 60px;
+gap: 60px;
+
+width: 1170px;
+height: 473px;
+
+background: #FFFFFF;
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+border: 1px solid #E5F4F2;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 1;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 1050px;
+height: 83px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Headline & Subhead */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 1050px;
+height: 83px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Let’s get in touch! */
+
+width: 465px;
+height: 49px;
+
+/* Display M */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 38px;
+line-height: 130%;
+/* or 49px */
+letter-spacing: -0.02em;
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Got questions about the Landing Page UI Kit? Our team is here to help. Contact us for quick and friendly support. */
+
+width: 1050px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Header */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 465px;
+height: 210px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Contact Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+justify-content: space-between;
+align-items: flex-start;
+padding: 0px;
+gap: 40px;
+
+width: 465px;
+height: 210px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Contact Details */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+margin: 0 auto;
+width: 465px;
+height: 68px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Phone */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 465px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* PhoneCall */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 12.63%;
+top: 12.63%;
+bottom: 15.63%;
+
+background: #009379;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 15.62%;
+right: 12.63%;
+top: 12.63%;
+bottom: 15.63%;
+
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 62.27%;
+right: 15.62%;
+top: 15.62%;
+bottom: 62.27%;
+
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 59.02%;
+right: 27.7%;
+top: 27.7%;
+bottom: 59.02%;
+
+border: 1.5px solid #009379;
+
+
+/* +012 345 6789 */
+
+width: 429px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Mail */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 12px;
+
+width: 465px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* EnvelopeSimple */
+
+width: 24px;
+height: 24px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 43.75%;
+
+background: #009379;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 21.88%;
+
+border: 1.5px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 43.75%;
+
+border: 1.5px solid #009379;
+
+
+/* Hello@animaapp.com */
+
+width: 429px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Social Media */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+margin: 0 auto;
+width: 465px;
+height: 79px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Connect with us */
+
+width: 465px;
+height: 27px;
+
+/* Display XS */
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 21px;
+line-height: 130%;
+/* or 27px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+width: 176px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.41%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 33.33%;
+bottom: 33.33%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+/* CTA - Aqua Squeeze
+
+Secondary CTAs &amp; CTA backgrounds
+*/
+background: #E5F4F2;
+
+
+/* Path */
+
+position: absolute;
+left: 25%;
+right: 26.6%;
+top: 30%;
+bottom: 30%;
+
+/* Onboarding background grey */
+background: #2D2D2D;
+
+
+/* Input fields & button */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 20px;
+
+width: 465px;
+height: 210px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Input Fields */
+
+/* Auto layout */
+display: flex;
+flex-direction: column;
+align-items: flex-start;
+padding: 0px;
+gap: 10px;
+
+width: 465px;
+height: 130px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Input Field */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 20px;
+gap: 12px;
+
+width: 465px;
+height: 60px;
+
+background: #FFFFFF;
+/* Deviders - Grey  */
+border: 1px solid #D8D8D8;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 29px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* User */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 37.5%;
+
+background: #009379;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 25%;
+right: 25%;
+top: 12.5%;
+bottom: 37.5%;
+
+border: 0.740741px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.11%;
+right: 12.11%;
+top: 62.5%;
+bottom: 15.62%;
+
+border: 0.740741px solid #009379;
+
+
+/* Divider */
+
+width: 1px;
+height: 20px;
+
+background: #DBE3FF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Full Name */
+
+width: 384px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Input Field */
+
+box-sizing: border-box;
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 8px 20px;
+gap: 12px;
+
+width: 465px;
+height: 60px;
+
+background: #FFFFFF;
+/* Deviders - Grey  */
+border: 1px solid #D8D8D8;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* Icon */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 8px;
+
+width: 29px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* EnvelopeSimple */
+
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Vector */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 43.75%;
+
+background: #009379;
+opacity: 0.2;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 21.88%;
+
+border: 0.740741px solid #009379;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 21.88%;
+bottom: 43.75%;
+
+border: 0.740741px solid #009379;
+
+
+/* Divider */
+
+width: 1px;
+height: 20px;
+
+background: #DBE3FF;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Email */
+
+width: 384px;
+height: 24px;
+
+/* Body M */
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 16px;
+line-height: 150%;
+/* identical to box height, or 24px */
+
+/* Onboarding background grey */
+color: #2D2D2D;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 1;
+
+
+/* Button */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: center;
+align-items: center;
+padding: 16px 50px;
+gap: 8px;
+
+width: 159px;
+height: 60px;
+
+background: #009379;
+border-radius: 20px;
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowRight */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Label */
+
+width: 59px;
+height: 24px;
+
+font-family: 'Poppins';
+font-style: normal;
+font-weight: 600;
+font-size: 16px;
+line-height: 24px;
+/* identical to box height, or 150% */
+text-align: center;
+font-feature-settings: 'liga' off;
+
+/* White */
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* ArrowLeft */
+
+display: none;
+width: 20px;
+height: 20px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* Footer */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 24px 60px;
+gap: 800px;
+
+width: 1280px;
+height: 80px;
+
+background: #2D2D2D;
+
+/* Inside auto layout */
+flex: none;
+order: 11;
+align-self: stretch;
+flex-grow: 0;
+
+
+/* © 2023 Anima Landing Page Ui Kit.  */
+
+margin: 0 auto;
+width: 208px;
+height: 20px;
+
+font-family: 'Mulish';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 20px;
+/* identical to box height, or 143% */
+font-feature-settings: 'liga' off;
+
+color: #FFFFFF;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* Social Links */
+
+/* Auto layout */
+display: flex;
+flex-direction: row;
+align-items: center;
+padding: 0px;
+gap: 16px;
+
+margin: 0 auto;
+width: 176px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 0;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #4E4D4D;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 31.67%;
+bottom: 30%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 1;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #4E4D4D;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.33%;
+top: 23.33%;
+bottom: 23.33%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 2;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #4E4D4D;
+
+
+/* Vector */
+
+position: absolute;
+left: 12.5%;
+right: 12.5%;
+top: 12.5%;
+bottom: 12.5%;
+
+/* White */
+background: #FFFFFF;
+
+
+/* Social Icons */
+
+width: 32px;
+height: 32px;
+
+
+/* Inside auto layout */
+flex: none;
+order: 3;
+flex-grow: 0;
+
+
+/* BG */
+
+position: absolute;
+left: 0%;
+right: 0%;
+top: 0%;
+bottom: 0%;
+
+background: #4E4D4D;
+
+
+/* Path */
+
+position: absolute;
+left: 23.33%;
+right: 23.8%;
+top: 25%;
+bottom: 24.54%;
+
+/* White */
+background: #FFFFFF;
